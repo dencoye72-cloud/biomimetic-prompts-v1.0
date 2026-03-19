@@ -1,0 +1,204 @@
+
+Published March 19, 2026 | Version 1.0.0
+Other Open
+biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs
+Authors/Creators
+
+    COYAUD, Denis (Researcher)
+
+Description
+
+A structured corpus of biomimetic prompt anchors for large language models (LLMs),
+  mapping biological organisms to specific behavioral techniques.
+  Includes a validated Core Marine (11 prompts targeting model behavioral biases
+  such as verbosity, sycophancy, hallucination, equivocation, cultural universalism,
+  and anachronism), an Extended Biome (38 prompts covering classic prompt engineering
+  techniques via biological metaphors), and a meta-orchestrator (the Queen) that
+  autonomously selects and activates the right anchor per session.
+  Prompts are written in French. Documentation is in English.
+Files
+biomimetic-prompts-v1.0.zip
+Files (183.8 kB)
+biomimetic-prompts-v1.0.zip
+md5:bbef1b5ff399df52eb57e198bfa5f657
+	183.8 kB
+	
+Additional details
+Dates
+
+Created
+    2026-03-19
+    A structured corpus of biomimetic prompt anchors for large language models (LLMs), mapping biological organisms to specific behavioral techniques. Includes a validated Core Marine (11 prompts targeting model behavioral biases such as verbosity, sycophancy, hallucination, equivocation, cultural universalism, and anachronism), an Extended Biome (38 prompts covering classic prompt engineering techniques via biological metaphors), and a meta-orchestrator (the Queen) that autonomously selects and activates the right anchor per session. Prompts are written in French. Documentation is in English.
+
+Software
+
+Repository URL
+    https://github.com/dencoye72-cloud/biomimetic-prompts-v1.0 
+Programming language
+    Markdown 
+Development Status
+    Active 
+
+Citations
+Show only:
+
+No citations found
+0
+Views
+0
+Downloads
+Show more details
+Versions
+Version 1.0.0
+10.5281/zenodo.19109249
+Mar 19, 2026
+
+Cite all versions? You can cite all versions by using the DOI 10.5281/zenodo.19109248. This DOI represents all versions, and will always resolve to the latest one. Read more.
+External resources
+
+Indexed in
+
+    OpenAIRE
+
+Communities
+
+This record is not included in any communities yet.
+Keywords and subjects
+
+    biomimetic-prompts 
+
+EuroSciVoc
+
+    Artificial intelligence 
+
+Details
+
+DOI
+    10.5281/zenodo.19109249
+Resource type
+    Other
+Publisher
+    Zenodo
+Languages
+    French, English 
+
+Rights
+
+License
+    cc-by-4.0 icon Creative Commons Attribution 4.0 International
+
+Citation
+COYAUD, D. (2026). biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19109249
+Style
+APA
+Export
+JSON
+Technical metadata
+
+Created
+    March 19, 2026 
+Modified
+    March 19, 2026 
+
+
+Published March 19, 2026 | Version 1.0.0
+Other Open
+biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs
+Authors/Creators
+
+    COYAUD, Denis (Researcher)
+
+Description
+
+A structured corpus of biomimetic prompt anchors for large language models (LLMs),
+  mapping biological organisms to specific behavioral techniques.
+  Includes a validated Core Marine (11 prompts targeting model behavioral biases
+  such as verbosity, sycophancy, hallucination, equivocation, cultural universalism,
+  and anachronism), an Extended Biome (38 prompts covering classic prompt engineering
+  techniques via biological metaphors), and a meta-orchestrator (the Queen) that
+  autonomously selects and activates the right anchor per session.
+  Prompts are written in French. Documentation is in English.
+Files
+biomimetic-prompts-v1.0.zip
+Files (183.8 kB)
+biomimetic-prompts-v1.0.zip
+md5:bbef1b5ff399df52eb57e198bfa5f657
+	183.8 kB
+	
+Additional details
+Dates
+
+Created
+    2026-03-19
+    A structured corpus of biomimetic prompt anchors for large language models (LLMs), mapping biological organisms to specific behavioral techniques. Includes a validated Core Marine (11 prompts targeting model behavioral biases such as verbosity, sycophancy, hallucination, equivocation, cultural universalism, and anachronism), an Extended Biome (38 prompts covering classic prompt engineering techniques via biological metaphors), and a meta-orchestrator (the Queen) that autonomously selects and activates the right anchor per session. Prompts are written in French. Documentation is in English.
+
+Software
+
+Repository URL
+    https://github.com/dencoye72-cloud/biomimetic-prompts-v1.0 
+Programming language
+    Markdown 
+Development Status
+    Active 
+
+Citations
+Show only:
+
+No citations found
+0
+Views
+0
+Downloads
+Show more details
+Versions
+Version 1.0.0
+10.5281/zenodo.19109249
+Mar 19, 2026
+
+Cite all versions? You can cite all versions by using the DOI 10.5281/zenodo.19109248. This DOI represents all versions, and will always resolve to the latest one. Read more.
+External resources
+
+Indexed in
+
+    OpenAIRE
+
+Communities
+
+This record is not included in any communities yet.
+Keywords and subjects
+
+    biomimetic-prompts 
+
+EuroSciVoc
+
+    Artificial intelligence 
+
+Details
+
+DOI
+    10.5281/zenodo.19109249
+Resource type
+    Other
+Publisher
+    Zenodo
+Languages
+    French, English 
+
+Rights
+
+License
+    cc-by-4.0 icon Creative Commons Attribution 4.0 International
+
+Citation
+COYAUD, D. (2026). biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19109249
+Style
+APA
+Export
+JSON
+Technical metadata
+
+Created
+    March 19, 2026 
+Modified
+    March 19, 2026 
+

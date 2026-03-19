@@ -1,0 +1,254 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-03-19T10:34:33.132885+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/dencoye72-cloud/biomimetic-prompts-v1.0",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "markdown",
+        "title": {
+          "en": "Markdown"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "biomimetic-prompts-v1.0.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:bbef1b5ff399df52eb57e198bfa5f657",
+        "ext": "zip",
+        "id": "92ea98f5-2760-416e-8b89-05961181e8c5",
+        "key": "biomimetic-prompts-v1.0.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/19109249/files/biomimetic-prompts-v1.0.zip/content",
+          "self": "https://zenodo.org/api/records/19109249/files/biomimetic-prompts-v1.0.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 183771,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 183771
+  },
+  "id": "19109249",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/19109249/access",
+    "access_grants": "https://zenodo.org/api/records/19109249/access/grants",
+    "access_links": "https://zenodo.org/api/records/19109249/access/links",
+    "access_request": "https://zenodo.org/api/records/19109249/access/request",
+    "access_users": "https://zenodo.org/api/records/19109249/access/users",
+    "archive": "https://zenodo.org/api/records/19109249/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19109249/media-files-archive",
+    "communities": "https://zenodo.org/api/records/19109249/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19109249/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.19109249",
+    "draft": "https://zenodo.org/api/records/19109249/draft",
+    "file_modification": "https://zenodo.org/api/records/19109249/file-modification",
+    "files": "https://zenodo.org/api/records/19109249/files",
+    "latest": "https://zenodo.org/api/records/19109249/versions/latest",
+    "latest_html": "https://zenodo.org/records/19109249/latest",
+    "media_files": "https://zenodo.org/api/records/19109249/media-files",
+    "parent": "https://zenodo.org/api/records/19109248",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19109248",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19109248",
+    "parent_html": "https://zenodo.org/records/19109248",
+    "preview_html": "https://zenodo.org/records/19109249?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/19109249/request-deletion",
+    "requests": "https://zenodo.org/api/records/19109249/requests",
+    "reserve_doi": "https://zenodo.org/api/records/19109249/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/19109249",
+    "self_doi": "https://doi.org/10.5281/zenodo.19109249",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19109249",
+    "self_html": "https://zenodo.org/records/19109249",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19109249/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19109249/sequence/default",
+    "versions": "https://zenodo.org/api/records/19109249/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "COYAUD",
+          "given_name": "Denis",
+          "name": "COYAUD, Denis",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-03-19",
+        "description": "A structured corpus of biomimetic prompt anchors for large language models (LLMs),   mapping biological organisms to specific behavioral techniques.   Includes a validated Core Marine (11 prompts targeting model behavioral biases   such as verbosity, sycophancy, hallucination, equivocation, cultural universalism,   and anachronism), an Extended Biome (38 prompts covering classic prompt engineering   techniques via biological metaphors), and a meta-orchestrator (the Queen) that   autonomously selects and activates the right anchor per session.   Prompts are written in French. Documentation is in English.",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        }
+      }
+    ],
+    "description": "<p>A structured corpus of biomimetic prompt anchors for large language models (LLMs),<br>&nbsp; mapping biological organisms to specific behavioral techniques.<br>&nbsp; Includes a validated Core Marine (11 prompts targeting model behavioral biases<br>&nbsp; such as verbosity, sycophancy, hallucination, equivocation, cultural universalism,<br>&nbsp; and anachronism), an Extended Biome (38 prompts covering classic prompt engineering<br>&nbsp; techniques via biological metaphors), and a meta-orchestrator (the Queen) that<br>&nbsp; autonomously selects and activates the right anchor per session.<br>&nbsp; Prompts are written in French. Documentation is in English.</p>",
+    "languages": [
+      {
+        "id": "fra",
+        "title": {
+          "en": "French"
+        }
+      },
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2026-03-19",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "other",
+      "title": {
+        "de": "Sonstige",
+        "en": "Other"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "id": "euroscivoc:297",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/4c8f4b46-6f5c-41d9-9079-7de85c16431d",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:23,euroscivoc:47"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Artificial intelligence"
+      },
+      {
+        "subject": "biomimetic-prompts"
+      }
+    ],
+    "title": "biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs",
+    "version": "1.0.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1545670"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "19109248",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.19109248",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.19109249",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19109249",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-03-19T10:34:33.420957+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}

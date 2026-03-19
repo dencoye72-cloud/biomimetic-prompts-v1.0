@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "biomimetic-prompts: A Structured Corpus of Biomimetic Prompt Anchors for LLMs"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "COYAUD"
+    given-names: "Denis"
+    orcid: ""
+    email: "dencoy@hotmail.fr"
+repository-code: "https://github.com/dencoye72-cloud/biomimetic-prompts"
+abstract: >
+  A structured corpus of biomimetic prompt anchors for large language models (LLMs),
+  mapping biological organisms to specific behavioral techniques.
+  Includes a validated Core Marine (11 prompts targeting model behavioral biases
+  such as verbosity, sycophancy, hallucination, equivocation, cultural universalism,
+  and anachronism), an Extended Biome (38 prompts covering classic prompt engineering
+  techniques via biological metaphors), and a meta-orchestrator (the Queen) that
+  autonomously selects and activates the right anchor per session.
+  Prompts are written in French. Documentation is in English.
+keywords:
+  - prompt engineering
+  - large language models
+  - LLM
+  - biomimetics
+  - behavioral anchoring
+  - Claude
+  - sycophancy
+  - hallucination
+  - chain-of-thought
+  - few-shot prompting
+  - bias correction
+  - French
+license: CC-BY-NC-SA-4.0
+version: "1.0.0"
+date-released: "2026-03-19"
+https://doi.org/10.5281/zenodo.19109249
